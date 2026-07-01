@@ -32,7 +32,7 @@ Cybersecurity Specialist | Network Security Engineer | AI & Security Enthusiast
 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://anandpaul-portfolio.netlify.app/">
