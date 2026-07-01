@@ -1,36 +1,38 @@
 Hi 👋, I’m Anand Paul
 
-Cybersecurity Enthusiast | Network Security Engineer | AI & Security Developer
+Cybersecurity Specialist | Network Security Engineer | AI & Security Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Engineer;Network+Security+Specialist;AI+for+Cybersecurity+Enthusiast;Continuous+Learner+and+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=Cybersecurity+Specialist+at+HCLTech;Network+Security+Engineer;Palo+Alto+Security+Professional;AI+%2B+Cybersecurity+Enthusiast;Always+Learning+and+Building" alt="Typing SVG" />
 </p>
 
 ⸻
 
 🚀 About Me
 
-🎓 Final Year B.Tech CSE (Cybersecurity) Student at SRM Institute of Science and Technology
+🔐 Cybersecurity Specialist at HCLTech
 
-🔐 Incoming Network Security Engineer at HCL Technologies
+🌐 Working in Network Security with a focus on enterprise security operations and network protection
 
-🤖 Passionate about Cybersecurity, Threat Intelligence, AI Security, and Network Defense
+🛡️ Interested in Network Security, Threat Intelligence, Security Operations, Cloud Security, and AI for Cybersecurity
 
-📚 Currently learning:
+💡 Passionate about solving security challenges and building innovative cybersecurity solutions
+
+📚 Currently Expanding Skills In:
 
 * Palo Alto Firewalls
-* SIEM & SOC Operations
+* Advanced Network Security
 * Threat Hunting
+* Security Monitoring
 * Cloud Security
-
-💡 Building projects that combine Artificial Intelligence and Cybersecurity
+* AI-Powered Security Solutions
 
 ⸻
 
 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://anandpaul-portfolio.netlify.app/">
@@ -44,9 +46,9 @@ Cybersecurity Enthusiast | Network Security Engineer | AI & Security Developer
 
 Programming Languages
 
-Web Development
+Network Security & Cybersecurity
 
-Cybersecurity
+Development
 
 Databases
 
@@ -56,19 +58,34 @@ Databases
 
 ThreatIntelGPT
 
-AI-powered Cyber Threat Intelligence Dashboard for security analysts.
+AI-powered threat intelligence dashboard for analyzing and visualizing cybersecurity threats.
 
 Investigation Support Chatbot
 
-AI + Cybersecurity solution developed for Tamil Nadu Cyber Crime Wing.
+AI-powered chatbot developed to support cybersecurity investigations and incident analysis.
 
 Automated Document Summarizer
 
-NLP and Deep Learning based medical document summarization system.
+NLP and Deep Learning-based system for intelligent document summarization.
 
 Jarvis AI Assistant
 
-Voice-enabled AI assistant developed using Python.
+Voice-enabled intelligent assistant built using Python and automation tools.
+
+⸻
+
+🧰 Tools & Technologies
+
+* Palo Alto Networks
+* Wireshark
+* Git & GitHub
+* Linux
+* VS Code
+* MySQL
+* MongoDB
+* Network Troubleshooting
+* Firewall Administration
+* Security Analysis
 
 ⸻
 
@@ -89,14 +106,6 @@ Voice-enabled AI assistant developed using Python.
 
 ⸻
 
-🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=paul190304&theme=tokyonight&margin-w=15"/>
-</p>
-
-⸻
-
 📊 Contribution Graph
 
 <p align="center">
@@ -109,21 +118,6 @@ Voice-enabled AI assistant developed using Python.
 
 ⸻
 
-💡 Quote
+⚡ Current Mission
 
-“Cybersecurity is not just about defending systems; it’s about protecting trust in a digital world.”
-
-<!--
-**paul190304/paul190304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building expertise in Network Security, Palo Alto Firewalls, Threat Detection, and Enterprise Cybersecurity while continuously growing toward becoming a highly skilled Cybersecurity Architect and Security Leader.
